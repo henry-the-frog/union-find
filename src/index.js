@@ -1,1 +1,1 @@
-export { UnionFind } from './uf.js';
+export { UnionFind, NamedUnionFind } from './union-find.js';
